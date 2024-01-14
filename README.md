@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nattawat Pitikomon
 - 🇹🇭 Currently located in Thailand, Bangkok.
 - 👀 I’m interested in Coding, Gaming, Anime, Japan, and AR (Augmented Reality).
-- 🌱 I’m currently learning React, Node.JS, Swift. Moving to learn the 'Apple Vision Pro' in the future.
-- 💞️ I’m looking to collaborate on ANY PROJECT!! especially frontend project mainly use React.
+- 🌱 I’m currently learning Frontend, React, Node.JS, and Swift for Apple Vision Pro.
+- 💞️ I’m looking to collaborate on ANY PROJECT!! especially frontend projects mainly use React.
 - 📫 How to reach me?
 - 👉 Email: nattawat.arch@gmail.com
 - 👉 Discord: departure_lv
