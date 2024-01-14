@@ -8,7 +8,4 @@
 - 👉 Discord: departure_lv
 - 👉 LinkedIn: https://www.linkedin.com/in/nattawat-pitikomon/ 
 
-<!---
-DepartureLV/DepartureLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/departurelv"><img src="https://api.daily.dev/devcards/fb434c2e4cc54e218c724ba2d7aefa6d.png?r=8lw" width="400" alt="Nattawat Pitikomon's Dev Card"/></a>
