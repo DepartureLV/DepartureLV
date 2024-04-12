@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nattawat Pitikomon
-- 🇹🇭 Currently located in Thailand, Bangkok.
+- 🌏 I'm a global citizen.
 - 👀 I’m interested in Coding, Gaming, Anime, Japan, and AR (Augmented Reality).
 - 🌱 I’m currently learning Frontend, React, Node.JS, and Swift for Apple Vision Pro.
 - 💞️ I’m looking to collaborate on ANY PROJECT!! especially frontend projects mainly use React.
