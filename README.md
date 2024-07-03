@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ```Nattawat Pitikomon```
 - 🌏 I'm a ```global citizen.```
 - 👀 I’m interested in ```Coding, Gaming, Anime, Japan, and AR (Augmented Reality).```
-- 🌱 I’m currently learning Frontend, React, Node.JS, and Swift for Apple Vision Pro.
+- 🎨 Full stack developer specializing in ```Frontend development``` and ```UXUI```
 - 💞️ I’m looking to collaborate on ANY PROJECT!! especially frontend projects mainly use React.
 - 📫 How to reach me?
 - Email:nattawat.arch@gmail.com
