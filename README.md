@@ -7,6 +7,7 @@
 - Email:nattawat.arch@gmail.com
 - Discord: departure_lv 
 - LinkedIn: https://www.linkedin.com/in/nattawat-pitikomon/
+- website: https://nattawat-portfolio-website.vercel.app/
 
 Languages:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
