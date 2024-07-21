@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on ANY PROJECT!! especially frontend projects mainly use React.
 - 📫 How to reach me?
 - Email:nattawat.arch@gmail.com
-- Discord: departure_lv 
 - LinkedIn: https://www.linkedin.com/in/nattawat-pitikomon/
 - website: https://nattawat-portfolio-website.vercel.app/
 
